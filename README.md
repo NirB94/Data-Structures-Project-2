@@ -3,4 +3,5 @@ The second out of two practical projects for the Winter 2021 Data Structures cou
 The goal of the project is implementing a Fibonacci heap with the Java language.\
 Students working on the project:\
 Yoni Slutzky\
-Nir Borger
+Nir Borger\
+Grade: 100/100
